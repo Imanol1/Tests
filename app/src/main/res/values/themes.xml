@@ -19,6 +19,11 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="yellowStyle">
+        <item name="android:textColor">#FFFF00</item>
+    </style>
+
+
     <style name="Theme.Tests.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.Tests.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
