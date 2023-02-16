@@ -19,7 +19,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="yellowStile">
+    <style name="yellowStyle">
         <item name="android:textColor">#FFFF00</item>
     </style>
 

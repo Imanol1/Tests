@@ -4,11 +4,15 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="to_third_fragment">Nuevo fragment</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="text_test_differents_colors">Prueba <font color="#440000" style="@themes/yellowStile">de</font> <font color="@colors/purple_700">distintos</font> <font color='#FF0000'>colores</font></string>
+    <string name="text_test_differents_colors">Prueba <font color="#440000" style="@themes/yellowStyle">de</font> <font color="@colors/purple_700">distintos</font> <font color='#FF0000'>colores</font></string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
