@@ -9,4 +9,6 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_test_differents_colors">Prueba de distintos <font color='#FF0000'>colores</font></string>
+
 </resources>
