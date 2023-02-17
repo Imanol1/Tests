@@ -9,7 +9,7 @@
     <string name="previous">Previous</string>
     <string name="to_third_fragment">Nuevo fragment</string>
 
-    <string name="hello_first_fragment">Primer fragmento</string>
+    <string name="hello_first_fragment">Primer fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="text_test_differents_colors">Prueba <font color="#440000" style="@themes/yellowStyle">de</font> <font color="@colors/purple_700">distintos</font> <font color='#FF0000'>colores</font></string>
 <!-- TODO: Remove or change this placeholder text -->
